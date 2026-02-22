@@ -1,0 +1,12 @@
+{
+  "strategy": "counter_increment",
+  "spendCapSol": 0.01,
+  "allowRecipients": [
+    "7t23xkTGvMLTWwLUBDLdnyYWDreGuV5eKEye79RD9o8Z"
+  ],
+  "allowPrograms": [
+    "BtUk5jpsbzNB2yfR31RXecEHXgcMj4kDabZr3dzKthmW",
+    "11111111111111111111111111111111",
+    "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr"
+  ]
+}

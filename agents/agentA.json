@@ -1,0 +1,12 @@
+{
+  "strategy": "treasury",
+  "spendCapSol": 0.01,
+  "allowRecipients": [
+    "3uXYksDAdC3QgCAairMXR2La73odCG7XBTEh31sncrKQ"
+  ],
+  "allowPrograms": [
+    "BtUk5jpsbzNB2yfR31RXecEHXgcMj4kDabZr3dzKthmW",
+    "11111111111111111111111111111111",
+    "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr"
+  ]
+}
