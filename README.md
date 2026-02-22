@@ -1,8 +1,17 @@
 # Agentic Wallet (Solana, Devnet)
 
-A working prototype of an agentic wallet on Solana devnet.
+An autonomous, policy-controlled agent wallet system on Solana devnet.
 
-This project demonstrates:
+This prototype demonstrates how AI agents can:
+
+- Generate and manage their own wallets
+- Sign and execute transactions autonomously
+- Hold and transfer SOL and SPL tokens
+- Interact with on-chain programs (custom Anchor counter PDA)
+- Enforce security policies (spend caps + program allowlists)
+
+------------------------------------------------------------
+
 
 - Programmatic wallet creation (per-agent keypairs)
 - Automatic transaction signing
